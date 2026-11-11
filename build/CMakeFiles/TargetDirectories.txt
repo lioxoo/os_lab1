@@ -1,3 +1,0 @@
-C:/Users/lioxxo/os_lab1/build/CMakeFiles/hello.dir
-C:/Users/lioxxo/os_lab1/build/CMakeFiles/edit_cache.dir
-C:/Users/lioxxo/os_lab1/build/CMakeFiles/rebuild_cache.dir
